@@ -20,11 +20,6 @@ My research focuses on mathematical and numerical modeling of subsurface fluid f
 - **MSc in Mechanics and Mathematical Modelling**, Lobachevsky Institute of Mathematics and Mechanics, Kazan Federal University, 2025
 - **BSc in Mathematics**, Lobachevsky Institute of Mathematics and Mechanics, Kazan Federal University, 2023
 
-## 🛠️ Top Repositories
-
-- [PorousFlow2D](https://github.com/slmnvdlr/PorousFlow2D) — a 2D finite-volume simulator for incompressible two-phase flow in porous media
-- [geom_course_2026](https://github.com/slmnvdlr/geom_course_2026) — course materials for *Scientific Graphics and Domain Geometrization*
-
 ## 💼 Skills
 
 - Mathematical and numerical modeling of subsurface flow processes
