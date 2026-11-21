@@ -1,17 +1,20 @@
-# Дилара Салимьянова
+# Dilara Salimyanova
 
-Ассистент кафедры механики сплошных сред Института математики и механики им. Н. И. Лобачевского Казанского (Приволжского) федерального университета.
+I work at [Kazan Federal University](https://kpfu.ru/) in two academic positions:
 
-Область научных интересов — механика жидкости, газа и плазмы.
+- **Senior Lecturer**, Department of Mathematical Methods in Geology, [Institute of Geology and Petroleum Technologies](https://geo.kpfu.ru/);
+- **Assistant**, Department of Continuum Mechanics, [Lobachevsky Institute of Mathematics and Mechanics](https://kpfu.ru/math).
 
-## Образование
+My research area is fluid, gas and plasma mechanics.
 
-- **Магистр, «Механика и математическое моделирование»** — Казанский федеральный университет, Институт математики и механики им. Н. И. Лобачевского, 2025.
-- **Бакалавр, «Математика»** — Казанский федеральный университет, Институт математики и механики им. Н. И. Лобачевского, 2023.
+## Education
 
-## Научные профили
+- **MSc in Mechanics and Mathematical Modelling**, Lobachevsky Institute of Mathematics and Mechanics, Kazan Federal University, 2025.
+- **BSc in Mathematics**, Lobachevsky Institute of Mathematics and Mechanics, Kazan Federal University, 2023.
 
-- [Персональная страница КФУ](https://kpfu.ru/dilara.salimyanova)
+## Academic profiles
+
+- [Kazan Federal University profile](https://kpfu.ru/dilara.salimyanova)
 - [Google Scholar](https://scholar.google.com/citations?user=YnOVgJgAAAAJ&hl=ru)
 - [Scopus](https://www.scopus.com/authid/detail.url?authorId=58860629000)
 - [Web of Science ResearcherID](https://www.researcherid.com/rid/LLL-6523-2024)
